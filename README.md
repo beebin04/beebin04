@@ -1,6 +1,6 @@
 # Hi, I’m @beebin04 👋
 - 👀 I’m interested in Programming, Humanities, and music :)
-- 🌱 I’m currently learning coding in Python
+- 🌱 I’m currently learning coding in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me either brendenobrien@uvic.ca or brendenobrien9@gmail.com
 - 😄 Pronouns: he/him
