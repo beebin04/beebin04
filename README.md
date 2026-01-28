@@ -1,7 +1,7 @@
 # Hi, I’m @beebin04 👋
 - I’m interested in Programming, Humanities, and music
 - I’m currently learning coding in JS and C++
-- How to reach me either brendenobrien@uvic.ca or brendenobrien9@gmail.com
+- You can reach me at either brendenobrien@uvic.ca or brendenobrien9@gmail.com
 - Pronouns: he/him
 
 <!---
